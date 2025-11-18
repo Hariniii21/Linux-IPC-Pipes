@@ -84,8 +84,7 @@ write(wfd,buff,n);
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/b397b976-81b4-4da6-98c5-64aec322dfa8)
-
+<img width="631" height="500" alt="pipea" src="https://github.com/user-attachments/assets/c0b8d6fe-ba74-4281-a0a3-b4b4a6ff47b5" />
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -103,11 +102,9 @@ exit(EXIT_SUCCESS);
 ```
 
 
-
-
-
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/fd403fc3-1a3b-4744-91ad-1e3f212c638f)
+<img width="503" height="356" alt="pipeb" src="https://github.com/user-attachments/assets/5f729cf5-ede0-4488-b15f-8d3d72ec0922" />
+
 
 ## RESULT
 The program is executed successfully
